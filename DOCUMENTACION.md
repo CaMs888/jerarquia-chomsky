@@ -10,19 +10,19 @@ Diseñar e implementar una aplicación gráfica que permita visualizar y simular
 
 3. Fundamentos teóricos
 
-3.1 Tipo 3 – Lenguajes regulares
+  3.1 Tipo 3 – Lenguajes regulares
 
 Se utiliza un Autómata Finito Determinista (AFD), compuesto por estados, un alfabeto, una función de transición, un estado inicial y estados finales.
 
-3.2 Tipo 2 – Lenguajes independientes del contexto
+  3.2 Tipo 2 – Lenguajes independientes del contexto
 
 Se utiliza un Autómata de Pila (PDA), que incorpora memoria LIFO para almacenar y retirar símbolos.
 
-3.3 Tipo 1 – Lenguajes sensibles al contexto
+  3.3 Tipo 1 – Lenguajes sensibles al contexto
 
 Se utiliza una Máquina Linealmente Acotada (LBA), cuya cinta de trabajo está limitada por la longitud de la entrada.
 
-3.4 Tipo 0 – Lenguajes recursivamente enumerables
+  3.4 Tipo 0 – Lenguajes recursivamente enumerables
 
 Se utiliza una Máquina de Turing (MT), que dispone de una cinta de lectura y escritura y un cabezal que permite desplazamientos.
 
