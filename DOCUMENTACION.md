@@ -190,6 +190,7 @@ Con entrada `1^n` la máquina avanza sobre los `n` unos, encuentra el primer bla
 
 ## 7. Referencias
 
-- Sipser, M. (2012). *Introduction to the Theory of Computation* (3.ª ed.). Cengage Learning.
-- Hopcroft, J. E., Motwani, R. y Ullman, J. D. (2006). *Introduction to Automata Theory, Languages, and Computation* (3.ª ed.). Pearson.
-- Chomsky, N. (1956). *Three models for the description of language*. IRE Transactions on Information Theory, 2(3), 113–124.
+- Hopcroft, J. E., Motwani, R. y Ullman, J. D. (2007). Introducción a la teoría de autómatas, lenguajes y computación (3.ª ed.). Pearson Educación.
+- Martin, J. C. (2004). Lenguajes formales y teoría de la computación (3.ª ed.). McGraw-Hill.
+- Kelley, D. (1995). Teoría de autómatas y lenguajes formales. Prentice Hall.
+- Python Software Foundation. tkinter — Interface de Python para Tcl/Tk. Documentación oficial de Python en español: https://docs.python.org/es/3/library/tkinter.html
